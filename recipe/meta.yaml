@@ -35,7 +35,7 @@ requirements:
     - rioxarray
     - xarray
     - xmltodict
-    - xcube >=1.8.1
+    - xcube >=1.11.0
 
 test:
   requires:
