@@ -1,5 +1,5 @@
 {% set name = "xcube-stac" %}
-{% set version = "0.2.0" %}
+{% set version = "0.3.0" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/xcube-dev/xcube-stac/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 6759fa501bd1a258a09772224c4c387726317f3b2b88680b9dcfa114b86214ca
+  sha256: 28fe9f9912b50c30b26769d1ea71ffaec7abf6ae05baca700b6ead3f22d76f0e
 
 build:
   number: 0
