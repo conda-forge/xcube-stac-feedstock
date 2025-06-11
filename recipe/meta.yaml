@@ -22,7 +22,7 @@ requirements:
     - setuptools
   run:
     - python >={{ python_min }}
-    - boto3
+    - boto3 ==1.37.3
     - dask
     - libgdal-jp2openjpeg
     - numpy
@@ -35,7 +35,7 @@ requirements:
     - rioxarray
     - xarray
     - xmltodict
-    - xcube >=1.8.1
+    - xcube >=1.11.0
 
 test:
   requires:
@@ -54,8 +54,10 @@ about:
 
 extra:
   recipe-maintainers:
-    - konstntokas
-    - forman
-    - TonioF
-    - thomasstorm
+    - AliceBalfanz
     - b-yogesh
+    - forman
+    - konstntokas
+    - TejasMorbagal
+    - thomasstorm
+    - TonioF
