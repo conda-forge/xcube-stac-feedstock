@@ -147,12 +147,11 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@TejasMorbagal](https://github.com/TejasMorbagal/)
 * [@TonioF](https://github.com/TonioF/)
 * [@b-yogesh](https://github.com/b-yogesh/)
+* [@clarasb](https://github.com/clarasb/)
 * [@forman](https://github.com/forman/)
 * [@konstntokas](https://github.com/konstntokas/)
 * [@thomasstorm](https://github.com/thomasstorm/)
-
-
-<!-- dummy commit to enable rerendering -->
 
