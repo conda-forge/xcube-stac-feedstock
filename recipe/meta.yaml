@@ -23,7 +23,9 @@ requirements:
   run:
     - python >={{ python_min }}
     - boto3 ==1.37.3
+    - cftime
     - dask
+    - h5netcdf
     - libgdal-jp2openjpeg
     - numpy
     - pandas
