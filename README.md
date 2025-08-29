@@ -155,6 +155,3 @@ Feedstock Maintainers
 * [@konstntokas](https://github.com/konstntokas/)
 * [@thomasstorm](https://github.com/thomasstorm/)
 
-
-<!-- dummy commit to enable rerendering -->
-
