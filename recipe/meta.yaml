@@ -27,6 +27,7 @@ requirements:
     - dask
     - h5netcdf
     - libgdal-jp2openjpeg
+    - libgdal-netcdf
     - numpy
     - pandas
     - planetary-computer
