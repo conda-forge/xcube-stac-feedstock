@@ -22,10 +22,8 @@ requirements:
     - setuptools
   run:
     - python >={{ python_min }}
-    - boto3 ==1.37.3
-    - cftime
+    - boto3 >=1.37.3
     - dask
-    - h5netcdf
     - libgdal-jp2openjpeg
     - libgdal-netcdf
     - numpy
