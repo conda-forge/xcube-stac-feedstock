@@ -158,6 +158,3 @@ Feedstock Maintainers
 * [@pont-us](https://github.com/pont-us/)
 * [@thomasstorm](https://github.com/thomasstorm/)
 
-
-<!-- dummy commit to enable rerendering -->
-
