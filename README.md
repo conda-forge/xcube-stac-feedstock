@@ -198,6 +198,7 @@ Feedstock Maintainers
 * [@b-yogesh](https://github.com/b-yogesh/)
 * [@clarasb](https://github.com/clarasb/)
 * [@forman](https://github.com/forman/)
+* [@freds-dev](https://github.com/freds-dev/)
 * [@konstntokas](https://github.com/konstntokas/)
 * [@pont-us](https://github.com/pont-us/)
 * [@thomasstorm](https://github.com/thomasstorm/)
